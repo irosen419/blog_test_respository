@@ -1,5 +1,9 @@
 "Hello, World!"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 "It's me!"
+>>>>>>> my-new-branch
+=======
+"It's me! I'm here!"
 >>>>>>> my-new-branch
